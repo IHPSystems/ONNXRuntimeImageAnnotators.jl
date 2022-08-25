@@ -1,0 +1,13 @@
+name = "ONNXRuntimeImageAnnotators"
+uuid = "63522d36-9b3e-4a1e-9ce3-7bd7dfe7c205"
+authors = ["IHP Systems R&D <research@ihp.dk>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

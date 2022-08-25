@@ -1,0 +1,3 @@
+module ONNXRuntimeImageAnnotators
+
+end # module
